@@ -2,9 +2,8 @@
 
 ### 使用方法
 
- 1.<br>
- 下载 heroku CLI 客户端: https://devcenter.heroku.com/articles/getting-started-with-php#set-up <br>
- 2.<br>
+ 1. 下载 heroku CLI 客户端: https://devcenter.heroku.com/articles/getting-started-with-php#set-up <br>
+ 2. 部署 <br>
  $ heroku login<br>
  $ git clone https://github.com/justsweetpotato/web-proxy-heroku.git <br>
  $ cd web-proxy-heroku <br>
@@ -15,6 +14,7 @@
  $ git push heroku master<br>
  
 <br>
+
 ### 关于
 
 原项目地址: https://github.com/nfriedly/node-unblocker
