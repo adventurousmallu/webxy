@@ -1,5 +1,7 @@
 ## 基于 node unblocker 的通用 web 代理
 
+能通过此代理网站在墙内访问任何网站. 此网站做一个转发的作用.
+
 ### 使用方法
 
 1. 下载 heroku CLI 客户端: https://devcenter.heroku.com/articles/getting-started-with-php#set-up <br>
