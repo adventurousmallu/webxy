@@ -2,16 +2,16 @@
 
 ### 使用方法
 
- 1. 下载 heroku CLI 客户端: https://devcenter.heroku.com/articles/getting-started-with-php#set-up <br>
- 2. 部署 <br>
- $ heroku login<br>
- $ git clone https://github.com/justsweetpotato/web-proxy-heroku.git <br>
- $ cd web-proxy-heroku <br>
- $ heroku create [You APP Name]<br>
- $ heroku git:remote -a [You APP Name]<br>
- $ git add .<br>
- $ git commit -am "make it better"<br>
- $ git push heroku master<br>
+1. 下载 heroku CLI 客户端: https://devcenter.heroku.com/articles/getting-started-with-php#set-up <br>
+2. 部署 <br>
+$ heroku login<br>
+$ git clone https://github.com/justsweetpotato/web-proxy-heroku.git <br>
+$ cd web-proxy-heroku <br>
+$ heroku create [You APP Name]<br>
+$ heroku git:remote -a [You APP Name]<br>
+$ git add .<br>
+$ git commit -am "make it better"<br>
+$ git push heroku master<br>
  
 <br>
 
