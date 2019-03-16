@@ -1,9 +1,10 @@
 ## 基于node unblocker的通用web代理
 
 ### 使用方法
- 1. <br>
+
+ 1.<br>
  下载 heroku CLI 客户端: https://devcenter.heroku.com/articles/getting-started-with-php#set-up <br>
- 2. <br>
+ 2.<br>
  $ heroku login<br>
  $ git clone https://github.com/justsweetpotato/web-proxy-heroku.git <br>
  $ cd web-proxy-heroku <br>
@@ -15,6 +16,7 @@
  
 <br>
 ### 关于
+
 原项目地址: https://github.com/nfriedly/node-unblocker
 <br>
 有位作者进行了修改适合 heroku 部署: https://github.com/gfw-breaker/heroku-node-proxy
