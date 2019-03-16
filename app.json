@@ -1,0 +1,8 @@
+{
+  "name": "通用Web代理 (Node Unblocker)",
+  "description": "基于Node-Unblocker的Web代理，轻松翻墙看世界",
+  "image": "heroku/nodejs",
+  "repository": "https://github.com/gfw-breaker/heroku-node-proxy",
+  "keywords": ["node-noblocker", "gfw-breaker"],
+  "website": "https://github.com/gfw-breaker"
+}
