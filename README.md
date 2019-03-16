@@ -19,7 +19,6 @@ $ git push heroku master<br>
 
 原项目地址: https://github.com/nfriedly/node-unblocker
 <br>
-有位作者进行了修改适合 heroku 部署: https://github.com/gfw-breaker/heroku-node-proxy
+有位作者进行了修改以适合 heroku 部署: https://github.com/gfw-breaker/heroku-node-proxy
 <br>
 本项目基于修改版的基础上仅仅是修改了主页, 通过本地 push 到远程的方式部署到 heroku.
-
