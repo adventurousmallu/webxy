@@ -17,7 +17,6 @@
 5. 部署<br>
 当前页面将会显示你关联的 Github 账号, 在 Search for a repository to connect to 选项中输入 you2php-heroku
 并点击 Searh, 选择 repo 点击 Connect, 连接完成后, 在最下方点击 Deploy Branch 完成部署.<br>
-<br>
 
 ### 关于
 
@@ -25,4 +24,4 @@
 <br>
 有位作者进行了修改以适合 heroku 部署: https://github.com/gfw-breaker/heroku-node-proxy
 <br>
-本项目基于修改版的基础上仅仅是修改了主页.
+本项目基于修改版的基础上仅仅是修改了主页. 
