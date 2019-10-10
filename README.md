@@ -1,5 +1,6 @@
 ## 基于 node unblocker 的通用 Web 代理
-
+推荐使用一个更好用更快速的 Web 代理 jsproxy, <a href="https://github.com/EtherDream/jsproxy">Github</a>.<br>
+<br>
 能通过此代理网站在墙内访问任何网站, 此网站做一个转发的作用. 使用 heroku 的应用托管服务, 完全免费.<br>
 点击使用: https://bot-go-2.herokuapp.com/
 
